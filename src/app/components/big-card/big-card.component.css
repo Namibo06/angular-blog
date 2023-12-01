@@ -1,5 +1,4 @@
 .container-big-card{
-
   width: 400px;
   height: 500px;
   display: flex;
@@ -15,6 +14,7 @@
 
 .photo-box img{
   width: 100%;
+  min-width: 200px;
   height: 250px;
 }
 

@@ -12,4 +12,5 @@
   background-color: var(--corDeFundo);
   color: var(--corDoTitulo);
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  overflow-x: hidden;
 }

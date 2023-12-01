@@ -1,0 +1,10 @@
+@media screen and (width <= 920px) {
+  div.articles{
+    flex-direction: column;
+  }
+
+  div.articles-others{
+    margin-top: 40px;
+    padding: 10px;
+  }
+}

@@ -1,0 +1,21 @@
+:root{
+  --corDoTitulo: #ffffff;
+}
+
+@media screen and (width <= 700px){
+  div.container-menu-title h1{
+    font-size: 100px;
+  }
+}
+
+@media screen and (width <= 500px){
+  div.container-menu-title h1{
+    font-size: 70px;
+  }
+}
+
+@media screen and (width <= 350px){
+  div.container-menu-title h1{
+    font-size: 40px;
+  }
+}
