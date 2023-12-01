@@ -1,0 +1,30 @@
+div.container-small-card{
+  width: 700px;
+}
+
+div.container-small-card-content{
+  display: flex;
+  flex-direction: row;
+}
+
+.photo-box img{
+  width: 200px;
+  min-width: 200px;
+  margin-right: 20px;
+}
+
+.description-box{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.description-box h1 a{
+  font-size: 23px;
+  color: #808080;
+  text-decoration: none;
+}
+
+div.container-small-card-separator hr{
+  margin: 15px 0;
+}

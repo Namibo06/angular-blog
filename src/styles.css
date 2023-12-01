@@ -1,1 +1,15 @@
-/* You can add global styles to this file, and also import other style files */
+/*variaveis*/
+
+:root{
+  --corDeFundo:#111111;
+  --corDoTitulo: #ffffff;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: var(--corDeFundo);
+  color: var(--corDoTitulo);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

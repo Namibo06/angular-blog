@@ -1,0 +1,39 @@
+.container-big-card{
+
+  width: 400px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin: 0 30px;
+}
+
+.photo-box{
+  width: 100%;
+}
+
+.photo-box img{
+  width: 100%;
+  height: 250px;
+}
+
+.title-box h1{
+  margin: 15px 0 10px 0;
+  font-size: 20px;
+}
+
+.title-box h1 a{
+  text-decoration: none;
+  transition: 0.2s;
+}
+
+.title-box h1 a:hover{
+  padding-bottom: 2px;
+  border-bottom: 2px solid #ffffff;
+}
+
+.description-box p a{
+  color: #808080;
+  text-decoration: none;
+}
