@@ -1,0 +1,36 @@
+div.container-content{
+  border: 2px solid #ffffff;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+div.content-cover img{
+  border: 5px solid #ccc;
+  border-radius: 5px;
+  width: 500px;
+  min-width: 500px;
+  height: 300px;
+}
+
+div.content-description{
+  margin-top: 15px;
+}
+
+div.content-description p{
+  color: #808080;
+  margin-top: 20px;
+}
+
+a{
+  margin-top: 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  padding-bottom: 2px;
+  border-bottom: 2px solid #ffffff;
+}

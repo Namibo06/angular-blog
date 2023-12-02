@@ -1,3 +1,7 @@
+div.container-menu-bar{
+  margin: 20px 0;
+}
+
 div.container-menu-bar nav a{
   text-decoration: none;
   margin: 0 20px;
